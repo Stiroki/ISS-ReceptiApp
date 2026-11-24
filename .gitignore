@@ -1,7 +1,4 @@
-
-uploads/
-
-target/
+﻿target/
 .idea/
 *.ipr
 *.iws
